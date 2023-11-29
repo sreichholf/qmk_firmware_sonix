@@ -1,10 +1,10 @@
-/* Copyright (C) 2023 Stephan Reichholf
+/* Copyright 2023 Stephan Reichholf (https://github.com/sreichholf)
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 2 of the License, or
  * (at your option) any later version.
-
+ *
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
@@ -14,7 +14,6 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#pragma once
 
-// 30 pages of 64KB simulated eeprom (1920 Bytes)
-#define WEAR_LEVELING_SN32_EMULATION_PAGE_COUNT 30
+#define MATRIX_UNSELECT_DRIVE_HIGH
+#define RGB_MATRIX_LED_COUNT 90

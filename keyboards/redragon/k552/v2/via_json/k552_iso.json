@@ -1,5 +1,5 @@
 {
-    "name": "Redragon K552 ANSI",
+    "name": "Redragon K552 ISO",
     "vendorId": "0x0C45",
     "productId": "0x50F5",
     "menus": ["qmk_rgb_matrix"],
