@@ -15,5 +15,4 @@
  */
 
 
-#define MATRIX_UNSELECT_DRIVE_HIGH
 #define RGB_MATRIX_LED_COUNT 90
